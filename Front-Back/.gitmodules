@@ -1,0 +1,3 @@
+[submodule "Front-Back/Frontend"]
+    path = Front-Back/Frontend
+    url = https://github.com/sohasoh/FocusHubApp
